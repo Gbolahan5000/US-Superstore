@@ -61,7 +61,9 @@ The exploratory data analysis of this dataset, uncovered several key business in
 
 ### Dashboard
 
+![Dashboard 1 Preview](assets/dash1.png.png)
 
+![Dashboard 2 Preview](assets/dash2.png.png)
 
 # Recommendations
 
